@@ -13,7 +13,7 @@ from sklearn.ensemble import GradientBoostingRegressor
 # ============================================================
 
 df = pd.read_csv(
-    "C:/SEMESTER4/PROJECTWORK/CANDYDATA.csv"
+    "Nassau_Candy_Distributor.csv"
 )
 
 
